@@ -1,21 +1,9 @@
-### Hi there 👋
+# Oi, eu sou o Ravi Valentim :P
 
-## Welcome to my Github profile.
-### My name is Ravi Valentim and my nickname is Ravi-8bits \o/!
+[![github badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whitelink=)](https://github.com/Ravi-8bits)
+![c++ badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![python badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![java badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-## building...
-<!--
-**Ravi-8bits/Ravi-8bits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-🔭 I’m currently working on ...
-
-- 🌱 I’m currently learning C++ and Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<---
+<p>Apenas um desenvolvedor de software.<br>
+Atualmente estou cursando Ciência da Computação.</p>
